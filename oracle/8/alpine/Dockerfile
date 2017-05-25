@@ -1,4 +1,4 @@
-FROM        stakater/base-alpine:3.4
+FROM        stakater/base-alpine:3.5
 
 MAINTAINER  Rasheed Amir <rasheed@aurorasolutions.io>
 

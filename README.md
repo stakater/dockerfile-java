@@ -1,6 +1,6 @@
 # docker-java
 
-Lean Oracle Java8 Docker image based on `alpine:3.4`
+Lean Oracle Java8 Docker image based on `alpine:3.5`
 
 Run the latest container with:
 
