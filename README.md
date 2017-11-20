@@ -1,4 +1,6 @@
-# docker-java
+# dockerfile-java
+
+Alpine 3.5 -> Oracle Java 8u121
 
 Lean Oracle Java8 Docker image based on `alpine:3.5`
 
