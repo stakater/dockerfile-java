@@ -23,3 +23,9 @@ _Note_ you might have to login first before you can push the image to docker-hub
 # Reference
 
 Copied from - `https://github.com/anapsix/docker-alpine-java`
+
+# Troubleshooting
+
+sometimes build fails due to invalid urls; as Oracle seems to keep changing them!
+
+https://stackoverflow.com/questions/10268583/downloading-java-jdk-on-linux-via-wget-is-shown-license-page-instead
