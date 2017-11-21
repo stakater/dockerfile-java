@@ -6,23 +6,23 @@ Lean Oracle Java8 Docker image based on `alpine:3.5`
 
 Run the latest container with:
 
-`docker run stakater/java8-alpine:latest`
+`docker run stakater/oracle-jdk:8u151-alpine-3.5`
 
-`docker run stakater/java8-alpine:1.8.0_121`
+`docker run stakater/oracle-jdk:8u151-alpine-3.5`
 
 # Advanced
 
 Build an image:
-`docker build -t stakater/java8-alpine .`
+`docker build -t stakater/oracle-jdk:8u151-alpine-3.5 .`
 
 Push an image:
-`sudo docker push stakater/java8-alpine`
+`sudo docker push stakater/oracle-jdk:8u151-alpine-3.5`
 
 _Note_ you might have to login first before you can push the image to docker-hub `sudo docker login`
 
 # Example
 
-`docker run -it --rm stakater/java8-alpine:1.8.0_121 java -version`
+`docker run -it --rm stakater/oracle-jdk:8u151-alpine-3.5 java -version`
 
 # Reference
 
