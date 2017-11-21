@@ -1,6 +1,6 @@
 FROM        stakater/base-alpine:3.6
 
-MAINTAINER  Ahmad Iqbal <ahmadiq@gmail.com>
+MAINTAINER  Stakater Team
 
 # Java Version and other ENV
 ENV JAVA_VERSION_MAJOR=8 \
