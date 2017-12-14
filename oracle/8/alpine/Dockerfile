@@ -1,4 +1,4 @@
-FROM        stakater/base-alpine:3.6
+FROM        stakater/base-alpine:3.7
 
 MAINTAINER  Stakater Team
 
