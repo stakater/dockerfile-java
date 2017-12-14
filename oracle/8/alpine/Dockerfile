@@ -10,7 +10,7 @@ ENV JAVA_VERSION_MAJOR=8 \
     JAVA_JCE=standard \
     JAVA_HOME=/opt/jdk \
     PATH=${PATH}:/opt/jdk/bin \
-    GLIBC_VERSION=2.26 \
+    GLIBC_VERSION=2.26-r0 \
     LANG=C.UTF-8
 
 # do all in one step
